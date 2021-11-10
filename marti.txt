@@ -1,2 +1,2 @@
-Upravljanje informatičkih projekata
-Zadatak za bodove
+! Upravljanje informatičkih projekata
+! Zadatak za bodove
